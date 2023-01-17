@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="NLW Setup" title="NLW Setup" src="./src/assets/imherelogo.svg" />
+  <img alt="<nlw/>SETUP habits" title="<nlw/>SETUP habits" src="./assets/logonlwsetuphabits.svg" />
 </h1>
 
 🚧 Project under construction 🚧
