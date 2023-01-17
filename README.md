@@ -20,8 +20,25 @@ Describe what you learned and implemented in the project.
 
 ## 💡 Technologies used
 
+### Back-end
+
+- [x] Node.js
+- [x] [Fastify](https://www.fastify.io/)
+- [x] [Prisma](https://www.prisma.io/)
+- [x] TypeScript
+
+### Front-end Web
+
+- [x] [Vite](https://vitejs.dev/)
+- [x] React
+- [x] TypeScript
+- [x] [Tailwindcss](https://tailwindcss.com/)
+
+### Mobile
+
 - [x] [Expo](https://expo.dev/)
 - [x] React Native
+- [x] TypeScript
 
 ## 🚀 Running the project
 
