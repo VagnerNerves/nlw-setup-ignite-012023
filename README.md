@@ -10,9 +10,9 @@ In the GitHub edit, drag the video that it already puts on github itself.
 
 ## 🎨 Layout
 
-Layout developed by [Name](https://www.instagram.com/urlName/)
+Layout developed by [Rocketseat](https://www.rocketseat.com.br/)
 
-[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](https://www.figma.com/files)
+[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](https://www.figma.com/file/aiedkhCPzfOO44WxHtD5lb/Habits-(i)-(Community)?node-id=6%3A343&t=L9im8woqPCr6gGhP-1)
 
 ## 👏 Learning and more implementations
 
