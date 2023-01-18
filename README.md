@@ -26,19 +26,25 @@ Describe what you learned and implemented in the project.
 - [x] [Fastify](https://www.fastify.io/)
 - [x] [Prisma](https://www.prisma.io/)
 - [x] TypeScript
+- [x] [Dayjs](https://day.js.org/)
+- [x] [Zod](https://github.com/colinhacks/zod)
 
 ### Front-end Web
 
 - [x] [Vite](https://vitejs.dev/)
 - [x] React
 - [x] TypeScript
-- [x] [Tailwindcss](https://tailwindcss.com/)
+- [x] [Tailwind CSS](https://tailwindcss.com/)
+- [x] [Dayjs](https://day.js.org/)
+- [x] [Phosphor Icons](https://phosphoricons.com/)
 
 ### Mobile
 
 - [x] [Expo](https://expo.dev/)
 - [x] React Native
 - [x] TypeScript
+- [x] [NativeWind (Tailwind CSS)](https://www.nativewind.dev/)
+- [x] [Dayjs](https://day.js.org/)
 
 ## 🚀 Running the project
 
