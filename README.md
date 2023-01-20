@@ -39,6 +39,7 @@ Describe what you learned and implemented in the project.
 - [x] [Phosphor Icons](https://phosphoricons.com/)
 - [x] [Radix](https://www.radix-ui.com/)
 - [x] [clsx](https://github.com/lukeed/clsx)
+- [x] [Axios](https://axios-http.com/ptbr/)
 
 ### Mobile
 
@@ -48,6 +49,8 @@ Describe what you learned and implemented in the project.
 - [x] [NativeWind (Tailwind CSS)](https://www.nativewind.dev/)
 - [x] [Dayjs](https://day.js.org/)
 - [x] [React Navigation](https://reactnavigation.org/)
+- [x] [clsx](https://github.com/lukeed/clsx)
+- [x] [Axios](https://axios-http.com/ptbr/)
 
 ## 🚀 Running the project
 
