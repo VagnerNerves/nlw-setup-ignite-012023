@@ -145,9 +145,9 @@ Start the server
   npx expo start
 ```
 
-<!-- ## 📝 Routes
+## 📝 Routes
 
-[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link) -->
+[![Run in Insomnia](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-insomnia.svg)](https://insomnia.rest/run/?label=NLW%20Setup%20Habits%20-%20API&uri=https://github.com/VagnerNerves/nlw-setup-ignite-012023/blob/master/server/insomnia/Insomnia-All_2023-01-21.json)
 
 ## 🌎 License
 
