@@ -51,6 +51,7 @@ Describe what you learned and implemented in the project.
 - [x] [React Navigation](https://reactnavigation.org/)
 - [x] [clsx](https://github.com/lukeed/clsx)
 - [x] [Axios](https://axios-http.com/ptbr/)
+- [x] [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
 
 ## 🚀 Running the project
 
