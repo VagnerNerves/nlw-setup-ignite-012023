@@ -55,13 +55,13 @@ Describe what you learned and implemented in the project. -->
 
 ## 🚀 Running the project
 
-### Back-end
-
 Clone the project
 
 ```bash
   git clone https://github.com/VagnerNerves/nlw-setup-ignite-012023.git
 ```
+
+### Back-end
 
 Enter the project directory
 
@@ -95,12 +95,6 @@ Start the server
 
 ### Front-end Web
 
-Clone the project
-
-```bash
-  git clone https://github.com/VagnerNerves/nlw-setup-ignite-012023.git
-```
-
 Enter the project directory
 
 ```bash
@@ -120,12 +114,6 @@ Start the server
 ```
 
 ### Mobile
-
-Clone the project
-
-```bash
-  git clone https://github.com/VagnerNerves/nlw-setup-ignite-012023.git
-```
 
 Enter the project directory
 
