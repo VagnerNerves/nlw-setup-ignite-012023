@@ -4,9 +4,13 @@
 
 I developed the Habits project, where you record the habits and the days of the week you will do them and you can mark the habits you completed on the current day.
 
-<!-- ## 🎥 Implementation Video
+ ## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself. -->
+ 
+
+https://user-images.githubusercontent.com/40831841/213879386-1ebfb4ee-f829-4015-88d9-9f7cc1300c5d.mp4
+
+
 
 ## 🎨 Layout
 
